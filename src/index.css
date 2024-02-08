@@ -1,0 +1,36 @@
+.app .container{
+  margin:2rem auto;
+  width:40rem;
+}
+.card-body{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-body .card-icons{
+  display: flex;
+}
+.card-body .card-icons .icon{
+  font-size: 1.5rem;
+  margin-right:1rem;
+}
+.icon1{
+  color:green;
+}
+.icon2{
+  color:red;
+}
+.task-body{
+  margin-top:5rem;
+}
+.card{
+  margin: 1rem 0;
+}
+.card-title{
+  display: flex;
+  align-items: center;
+}
+.title-icon{
+  font-size: 2rem;
+  margin-right:2rem;
+}
